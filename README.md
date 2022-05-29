@@ -23,3 +23,5 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # with_secure
+
+<img src="https://i.stack.imgur.com/XGlad.gif">
