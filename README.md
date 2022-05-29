@@ -24,4 +24,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # with_secure
 
-<img src="https://i.stack.imgur.com/XGlad.gif">
+<img src="./use_case.gif">
