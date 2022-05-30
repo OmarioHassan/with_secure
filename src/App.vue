@@ -80,7 +80,6 @@
       v-if="showNotesDialog"
       @keyup.enter="isFormValid() ? saveNote() : ''"
     >
-      {{ newNote }}
       <h4>Add note</h4>
       <input
         type="text"
